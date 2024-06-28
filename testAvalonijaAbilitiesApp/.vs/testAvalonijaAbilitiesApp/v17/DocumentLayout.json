@@ -7,6 +7,10 @@
       "RelativeMoniker": "D:0:0:{04FEA3AF-C4D6-4BD7-8AEF-92D148F5BA46}|testAvalonijaAbilitiesApp\\testAvalonijaAbilitiesApp.csproj|solutionrelative:testavalonijaabilitiesapp\\services\\todolistservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{04FEA3AF-C4D6-4BD7-8AEF-92D148F5BA46}|testAvalonijaAbilitiesApp\\testAvalonijaAbilitiesApp.csproj|e:\\myapp\\taskmanager-main\\testavalonijaabilitiesapp\\testavalonijaabilitiesapp\\viewlocator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04FEA3AF-C4D6-4BD7-8AEF-92D148F5BA46}|testAvalonijaAbilitiesApp\\testAvalonijaAbilitiesApp.csproj|solutionrelative:testavalonijaabilitiesapp\\viewlocator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{04FEA3AF-C4D6-4BD7-8AEF-92D148F5BA46}|testAvalonijaAbilitiesApp\\testAvalonijaAbilitiesApp.csproj|e:\\myapp\\taskmanager-main\\testavalonijaabilitiesapp\\testavalonijaabilitiesapp\\viewmodels\\mainwindowviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{04FEA3AF-C4D6-4BD7-8AEF-92D148F5BA46}|testAvalonijaAbilitiesApp\\testAvalonijaAbilitiesApp.csproj|solutionrelative:testavalonijaabilitiesapp\\viewmodels\\mainwindowviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -33,10 +37,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{04FEA3AF-C4D6-4BD7-8AEF-92D148F5BA46}|testAvalonijaAbilitiesApp\\testAvalonijaAbilitiesApp.csproj|e:\\myapp\\taskmanager-main\\testavalonijaabilitiesapp\\testavalonijaabilitiesapp\\datamodel\\additemconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{04FEA3AF-C4D6-4BD7-8AEF-92D148F5BA46}|testAvalonijaAbilitiesApp\\testAvalonijaAbilitiesApp.csproj|solutionrelative:testavalonijaabilitiesapp\\datamodel\\additemconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{04FEA3AF-C4D6-4BD7-8AEF-92D148F5BA46}|testAvalonijaAbilitiesApp\\testAvalonijaAbilitiesApp.csproj|e:\\myapp\\taskmanager-main\\testavalonijaabilitiesapp\\testavalonijaabilitiesapp\\viewlocator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{04FEA3AF-C4D6-4BD7-8AEF-92D148F5BA46}|testAvalonijaAbilitiesApp\\testAvalonijaAbilitiesApp.csproj|solutionrelative:testavalonijaabilitiesapp\\viewlocator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{04FEA3AF-C4D6-4BD7-8AEF-92D148F5BA46}|testAvalonijaAbilitiesApp\\testAvalonijaAbilitiesApp.csproj|e:\\myapp\\taskmanager-main\\testavalonijaabilitiesapp\\testavalonijaabilitiesapp\\datamodel\\taskitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -129,20 +129,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 3,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ToDoListViewModel.cs",
-              "DocumentMoniker": "E:\\MyApp\\TaskManager-main\\testAvalonijaAbilitiesApp\\testAvalonijaAbilitiesApp\\ViewModels\\ToDoListViewModel.cs",
-              "RelativeDocumentMoniker": "testAvalonijaAbilitiesApp\\ViewModels\\ToDoListViewModel.cs",
-              "ToolTip": "E:\\MyApp\\TaskManager-main\\testAvalonijaAbilitiesApp\\testAvalonijaAbilitiesApp\\ViewModels\\ToDoListViewModel.cs",
-              "RelativeToolTip": "testAvalonijaAbilitiesApp\\ViewModels\\ToDoListViewModel.cs",
-              "ViewState": "AQIAAPcBAAAAAAAAAAAvwA4CAABKAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-05T13:20:13.508Z"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 9,
@@ -157,7 +145,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "ComplexTaskItem.cs",
               "DocumentMoniker": "E:\\MyApp\\TaskManager-main\\testAvalonijaAbilitiesApp\\testAvalonijaAbilitiesApp\\DataModel\\ComplexTaskItem.cs",
               "RelativeDocumentMoniker": "testAvalonijaAbilitiesApp\\DataModel\\ComplexTaskItem.cs",
@@ -187,14 +175,26 @@
               "RelativeDocumentMoniker": "testAvalonijaAbilitiesApp\\Services\\ToDoListService.cs",
               "ToolTip": "E:\\MyApp\\TaskManager-main\\testAvalonijaAbilitiesApp\\testAvalonijaAbilitiesApp\\Services\\ToDoListService.cs",
               "RelativeToolTip": "testAvalonijaAbilitiesApp\\Services\\ToDoListService.cs",
-              "ViewState": "AQIAAHMBAAAAAAAAAAAiwIcBAABQAAAA",
+              "ViewState": "AQIAAIMBAAAAAAAAAADwv4kBAAAuAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-05T13:19:44.951Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
+              "Title": "ToDoListViewModel.cs",
+              "DocumentMoniker": "E:\\MyApp\\TaskManager-main\\testAvalonijaAbilitiesApp\\testAvalonijaAbilitiesApp\\ViewModels\\ToDoListViewModel.cs",
+              "RelativeDocumentMoniker": "testAvalonijaAbilitiesApp\\ViewModels\\ToDoListViewModel.cs",
+              "ToolTip": "E:\\MyApp\\TaskManager-main\\testAvalonijaAbilitiesApp\\testAvalonijaAbilitiesApp\\ViewModels\\ToDoListViewModel.cs",
+              "RelativeToolTip": "testAvalonijaAbilitiesApp\\ViewModels\\ToDoListViewModel.cs",
+              "ViewState": "AQIAAPcBAAAAAAAAAAAvwA4CAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T13:20:13.508Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "ToDoListView.axaml",
               "DocumentMoniker": "E:\\MyApp\\TaskManager-main\\testAvalonijaAbilitiesApp\\testAvalonijaAbilitiesApp\\Views\\ToDoListView.axaml",
               "RelativeDocumentMoniker": "testAvalonijaAbilitiesApp\\Views\\ToDoListView.axaml",
@@ -205,7 +205,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 1,
               "Title": "ViewLocator.cs",
               "DocumentMoniker": "E:\\MyApp\\TaskManager-main\\testAvalonijaAbilitiesApp\\testAvalonijaAbilitiesApp\\ViewLocator.cs",
               "RelativeDocumentMoniker": "testAvalonijaAbilitiesApp\\ViewLocator.cs",
@@ -217,7 +217,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "TaskTypeEnum.cs",
               "DocumentMoniker": "E:\\MyApp\\TaskManager-main\\testAvalonijaAbilitiesApp\\testAvalonijaAbilitiesApp\\DataModel\\TaskTypeEnum.cs",
               "RelativeDocumentMoniker": "testAvalonijaAbilitiesApp\\DataModel\\TaskTypeEnum.cs",
@@ -229,7 +229,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "MainWindowViewModel.cs",
               "DocumentMoniker": "E:\\MyApp\\TaskManager-main\\testAvalonijaAbilitiesApp\\testAvalonijaAbilitiesApp\\ViewModels\\MainWindowViewModel.cs",
               "RelativeDocumentMoniker": "testAvalonijaAbilitiesApp\\ViewModels\\MainWindowViewModel.cs",
@@ -237,12 +237,11 @@
               "RelativeToolTip": "testAvalonijaAbilitiesApp\\ViewModels\\MainWindowViewModel.cs",
               "ViewState": "AQIAABsAAAAAAAAAAAAowBcAAABBAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-05T12:49:02.14Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-05T12:49:02.14Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "MainWindow.axaml",
               "DocumentMoniker": "E:\\MyApp\\TaskManager-main\\testAvalonijaAbilitiesApp\\testAvalonijaAbilitiesApp\\Views\\MainWindow.axaml",
               "RelativeDocumentMoniker": "testAvalonijaAbilitiesApp\\Views\\MainWindow.axaml",
@@ -253,7 +252,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "AddItemConverter.cs",
               "DocumentMoniker": "E:\\MyApp\\TaskManager-main\\testAvalonijaAbilitiesApp\\testAvalonijaAbilitiesApp\\DataModel\\AddItemConverter.cs",
               "RelativeDocumentMoniker": "testAvalonijaAbilitiesApp\\DataModel\\AddItemConverter.cs",

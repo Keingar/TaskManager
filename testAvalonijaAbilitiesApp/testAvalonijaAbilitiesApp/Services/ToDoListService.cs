@@ -368,29 +368,44 @@ namespace ToDoList.Services
 
         public static void RestoreDatabase(string databaseName)
         {
-            // Specify the absolute path to your .bak file
-
+            // Specify the path to your .bak file
             string currentDirectory = AppDomain.CurrentDomain.BaseDirectory;
             string backupFileName = "TaskManagerDB.bak";
             string backupFilePath = Path.Combine(currentDirectory, backupFileName);
+
+            // Specify paths for .mdf and .ldf files
+            string dataFilePath = Path.Combine(currentDirectory, $"{databaseName}.mdf");
+            string logFilePath = Path.Combine(currentDirectory, $"{databaseName}_Log.ldf");
 
             string newConnectionString = "Server=localhost;Database=Master;Integrated Security=True;";
 
             using SqlConnection connection = new SqlConnection(newConnectionString);
             connection.Open();
 
-            string restoreQuery = $@"
-                USE master;
-                Create DATABASE [{databaseName}] SET SINGLE_USER WITH ROLLBACK IMMEDIATE;
-                RESTORE DATABASE [{databaseName}]
-                FROM DISK = N'{backupFilePath}'
-                WITH MOVE '{databaseName}' TO N'E:\\testAvaloniaAbilitiesApp\\testAvalonijaAbilitiesApp\\testAvalonijaAbilitiesApp\\bin\\Debug\\net6.0\\{databaseName}.mdf',
-                MOVE '{databaseName}_Log' TO N'E:\\testAvaloniaAbilitiesApp\\testAvalonijaAbilitiesApp\\testAvalonijaAbilitiesApp\\bin\\Debug\\net6.0\\{databaseName}_Log.ldf',
-                REPLACE;
-                ALTER DATABASE [{databaseName}] SET MULTI_USER;";
+            // Create the database if it doesn't exist
+            string createDbQuery = $@"
+        IF NOT EXISTS (SELECT * FROM sys.databases WHERE name = N'{databaseName}')
+        BEGIN
+            CREATE DATABASE [{databaseName}];
+        END;
+    ";
 
-            using SqlCommand command = new SqlCommand(restoreQuery, connection);
-            command.ExecuteNonQuery();
+            using SqlCommand createDbCommand = new SqlCommand(createDbQuery, connection);
+            createDbCommand.ExecuteNonQuery();
+
+            // Restore the database
+                string restoreQuery = $@"
+            ALTER DATABASE [{databaseName}] SET SINGLE_USER WITH ROLLBACK IMMEDIATE;
+            RESTORE DATABASE [{databaseName}]
+            FROM DISK = N'{backupFilePath}'
+            WITH MOVE N'{databaseName}' TO N'{dataFilePath}',
+            MOVE N'{databaseName}_Log' TO N'{logFilePath}',
+            REPLACE;
+            ALTER DATABASE [{databaseName}] SET MULTI_USER;
+    ";
+
+            using SqlCommand restoreCommand = new SqlCommand(restoreQuery, connection);
+            restoreCommand.ExecuteNonQuery();
         }
 
 

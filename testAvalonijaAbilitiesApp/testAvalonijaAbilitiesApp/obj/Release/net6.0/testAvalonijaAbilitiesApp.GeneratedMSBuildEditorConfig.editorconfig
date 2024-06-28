@@ -1,0 +1,33 @@
+is_global = true
+build_property.AvaloniaNameGeneratorIsEnabled = true
+build_property.AvaloniaNameGeneratorBehavior = InitializeComponent
+build_property.AvaloniaNameGeneratorDefaultFieldModifier = internal
+build_property.AvaloniaNameGeneratorFilterByPath = *
+build_property.AvaloniaNameGeneratorFilterByNamespace = *
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = testAvalonijaAbilitiesApp
+build_property.ProjectDir = E:\MyApp\TaskManager-main\testAvalonijaAbilitiesApp\testAvalonijaAbilitiesApp\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+
+[E:/MyApp/TaskManager-main/testAvalonijaAbilitiesApp/testAvalonijaAbilitiesApp/App.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
+[E:/MyApp/TaskManager-main/testAvalonijaAbilitiesApp/testAvalonijaAbilitiesApp/Views/LoginWindow.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
+[E:/MyApp/TaskManager-main/testAvalonijaAbilitiesApp/testAvalonijaAbilitiesApp/Views/MainWindow.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
+[E:/MyApp/TaskManager-main/testAvalonijaAbilitiesApp/testAvalonijaAbilitiesApp/Views/RegisterWindow.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
+[E:/MyApp/TaskManager-main/testAvalonijaAbilitiesApp/testAvalonijaAbilitiesApp/Views/ToDoListView.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
