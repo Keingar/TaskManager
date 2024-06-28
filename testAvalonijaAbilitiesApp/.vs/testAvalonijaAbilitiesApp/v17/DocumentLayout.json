@@ -1,109 +1,109 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "E:\\checj\\TaskManager\\testAvalonijaAbilitiesApp\\",
+  "WorkspaceRootPath": "E:\\MyApp\\TaskManager-main\\testAvalonijaAbilitiesApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{04FEA3AF-C4D6-4BD7-8AEF-92D148F5BA46}|testAvalonijaAbilitiesApp\\testAvalonijaAbilitiesApp.csproj|e:\\checj\\taskmanager\\testavalonijaabilitiesapp\\testavalonijaabilitiesapp\\viewmodels\\mainwindowviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{04FEA3AF-C4D6-4BD7-8AEF-92D148F5BA46}|testAvalonijaAbilitiesApp\\testAvalonijaAbilitiesApp.csproj|solutionrelative:testavalonijaabilitiesapp\\viewmodels\\mainwindowviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{04FEA3AF-C4D6-4BD7-8AEF-92D148F5BA46}|testAvalonijaAbilitiesApp\\testAvalonijaAbilitiesApp.csproj|e:\\checj\\taskmanager\\testavalonijaabilitiesapp\\testavalonijaabilitiesapp\\services\\todolistservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{04FEA3AF-C4D6-4BD7-8AEF-92D148F5BA46}|testAvalonijaAbilitiesApp\\testAvalonijaAbilitiesApp.csproj|e:\\myapp\\taskmanager-main\\testavalonijaabilitiesapp\\testavalonijaabilitiesapp\\services\\todolistservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{04FEA3AF-C4D6-4BD7-8AEF-92D148F5BA46}|testAvalonijaAbilitiesApp\\testAvalonijaAbilitiesApp.csproj|solutionrelative:testavalonijaabilitiesapp\\services\\todolistservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{04FEA3AF-C4D6-4BD7-8AEF-92D148F5BA46}|testAvalonijaAbilitiesApp\\testAvalonijaAbilitiesApp.csproj|e:\\checj\\taskmanager\\testavalonijaabilitiesapp\\testavalonijaabilitiesapp\\viewmodels\\todolistviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{04FEA3AF-C4D6-4BD7-8AEF-92D148F5BA46}|testAvalonijaAbilitiesApp\\testAvalonijaAbilitiesApp.csproj|e:\\myapp\\taskmanager-main\\testavalonijaabilitiesapp\\testavalonijaabilitiesapp\\viewmodels\\mainwindowviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04FEA3AF-C4D6-4BD7-8AEF-92D148F5BA46}|testAvalonijaAbilitiesApp\\testAvalonijaAbilitiesApp.csproj|solutionrelative:testavalonijaabilitiesapp\\viewmodels\\mainwindowviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04FEA3AF-C4D6-4BD7-8AEF-92D148F5BA46}|testAvalonijaAbilitiesApp\\testAvalonijaAbilitiesApp.csproj|e:\\myapp\\taskmanager-main\\testavalonijaabilitiesapp\\testavalonijaabilitiesapp\\viewmodels\\todolistviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{04FEA3AF-C4D6-4BD7-8AEF-92D148F5BA46}|testAvalonijaAbilitiesApp\\testAvalonijaAbilitiesApp.csproj|solutionrelative:testavalonijaabilitiesapp\\viewmodels\\todolistviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{04FEA3AF-C4D6-4BD7-8AEF-92D148F5BA46}|testAvalonijaAbilitiesApp\\testAvalonijaAbilitiesApp.csproj|e:\\checj\\taskmanager\\testavalonijaabilitiesapp\\testavalonijaabilitiesapp\\views\\mainwindow.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}",
+      "AbsoluteMoniker": "D:0:0:{04FEA3AF-C4D6-4BD7-8AEF-92D148F5BA46}|testAvalonijaAbilitiesApp\\testAvalonijaAbilitiesApp.csproj|e:\\myapp\\taskmanager-main\\testavalonijaabilitiesapp\\testavalonijaabilitiesapp\\views\\mainwindow.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}",
       "RelativeMoniker": "D:0:0:{04FEA3AF-C4D6-4BD7-8AEF-92D148F5BA46}|testAvalonijaAbilitiesApp\\testAvalonijaAbilitiesApp.csproj|solutionrelative:testavalonijaabilitiesapp\\views\\mainwindow.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{04FEA3AF-C4D6-4BD7-8AEF-92D148F5BA46}|testAvalonijaAbilitiesApp\\testAvalonijaAbilitiesApp.csproj|e:\\checj\\taskmanager\\testavalonijaabilitiesapp\\testavalonijaabilitiesapp\\views\\todolistview.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}",
+      "AbsoluteMoniker": "D:0:0:{04FEA3AF-C4D6-4BD7-8AEF-92D148F5BA46}|testAvalonijaAbilitiesApp\\testAvalonijaAbilitiesApp.csproj|e:\\myapp\\taskmanager-main\\testavalonijaabilitiesapp\\testavalonijaabilitiesapp\\views\\todolistview.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}",
       "RelativeMoniker": "D:0:0:{04FEA3AF-C4D6-4BD7-8AEF-92D148F5BA46}|testAvalonijaAbilitiesApp\\testAvalonijaAbilitiesApp.csproj|solutionrelative:testavalonijaabilitiesapp\\views\\todolistview.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{04FEA3AF-C4D6-4BD7-8AEF-92D148F5BA46}|testAvalonijaAbilitiesApp\\testAvalonijaAbilitiesApp.csproj|e:\\checj\\taskmanager\\testavalonijaabilitiesapp\\testavalonijaabilitiesapp\\datamodel\\tasktypeenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{04FEA3AF-C4D6-4BD7-8AEF-92D148F5BA46}|testAvalonijaAbilitiesApp\\testAvalonijaAbilitiesApp.csproj|e:\\myapp\\taskmanager-main\\testavalonijaabilitiesapp\\testavalonijaabilitiesapp\\datamodel\\tasktypeenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{04FEA3AF-C4D6-4BD7-8AEF-92D148F5BA46}|testAvalonijaAbilitiesApp\\testAvalonijaAbilitiesApp.csproj|solutionrelative:testavalonijaabilitiesapp\\datamodel\\tasktypeenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{04FEA3AF-C4D6-4BD7-8AEF-92D148F5BA46}|testAvalonijaAbilitiesApp\\testAvalonijaAbilitiesApp.csproj|e:\\checj\\taskmanager\\testavalonijaabilitiesapp\\testavalonijaabilitiesapp\\datamodel\\complextaskitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{04FEA3AF-C4D6-4BD7-8AEF-92D148F5BA46}|testAvalonijaAbilitiesApp\\testAvalonijaAbilitiesApp.csproj|e:\\myapp\\taskmanager-main\\testavalonijaabilitiesapp\\testavalonijaabilitiesapp\\datamodel\\complextaskitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{04FEA3AF-C4D6-4BD7-8AEF-92D148F5BA46}|testAvalonijaAbilitiesApp\\testAvalonijaAbilitiesApp.csproj|solutionrelative:testavalonijaabilitiesapp\\datamodel\\complextaskitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{04FEA3AF-C4D6-4BD7-8AEF-92D148F5BA46}|testAvalonijaAbilitiesApp\\testAvalonijaAbilitiesApp.csproj|e:\\checj\\taskmanager\\testavalonijaabilitiesapp\\testavalonijaabilitiesapp\\datamodel\\additemconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{04FEA3AF-C4D6-4BD7-8AEF-92D148F5BA46}|testAvalonijaAbilitiesApp\\testAvalonijaAbilitiesApp.csproj|e:\\myapp\\taskmanager-main\\testavalonijaabilitiesapp\\testavalonijaabilitiesapp\\datamodel\\additemconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{04FEA3AF-C4D6-4BD7-8AEF-92D148F5BA46}|testAvalonijaAbilitiesApp\\testAvalonijaAbilitiesApp.csproj|solutionrelative:testavalonijaabilitiesapp\\datamodel\\additemconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{04FEA3AF-C4D6-4BD7-8AEF-92D148F5BA46}|testAvalonijaAbilitiesApp\\testAvalonijaAbilitiesApp.csproj|e:\\checj\\taskmanager\\testavalonijaabilitiesapp\\testavalonijaabilitiesapp\\viewlocator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{04FEA3AF-C4D6-4BD7-8AEF-92D148F5BA46}|testAvalonijaAbilitiesApp\\testAvalonijaAbilitiesApp.csproj|e:\\myapp\\taskmanager-main\\testavalonijaabilitiesapp\\testavalonijaabilitiesapp\\viewlocator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{04FEA3AF-C4D6-4BD7-8AEF-92D148F5BA46}|testAvalonijaAbilitiesApp\\testAvalonijaAbilitiesApp.csproj|solutionrelative:testavalonijaabilitiesapp\\viewlocator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{04FEA3AF-C4D6-4BD7-8AEF-92D148F5BA46}|testAvalonijaAbilitiesApp\\testAvalonijaAbilitiesApp.csproj|e:\\checj\\taskmanager\\testavalonijaabilitiesapp\\testavalonijaabilitiesapp\\datamodel\\taskitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{04FEA3AF-C4D6-4BD7-8AEF-92D148F5BA46}|testAvalonijaAbilitiesApp\\testAvalonijaAbilitiesApp.csproj|e:\\myapp\\taskmanager-main\\testavalonijaabilitiesapp\\testavalonijaabilitiesapp\\datamodel\\taskitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{04FEA3AF-C4D6-4BD7-8AEF-92D148F5BA46}|testAvalonijaAbilitiesApp\\testAvalonijaAbilitiesApp.csproj|solutionrelative:testavalonijaabilitiesapp\\datamodel\\taskitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{04FEA3AF-C4D6-4BD7-8AEF-92D148F5BA46}|testAvalonijaAbilitiesApp\\testAvalonijaAbilitiesApp.csproj|e:\\checj\\taskmanager\\testavalonijaabilitiesapp\\testavalonijaabilitiesapp\\views\\todolistview.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{04FEA3AF-C4D6-4BD7-8AEF-92D148F5BA46}|testAvalonijaAbilitiesApp\\testAvalonijaAbilitiesApp.csproj|e:\\myapp\\taskmanager-main\\testavalonijaabilitiesapp\\testavalonijaabilitiesapp\\views\\todolistview.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{04FEA3AF-C4D6-4BD7-8AEF-92D148F5BA46}|testAvalonijaAbilitiesApp\\testAvalonijaAbilitiesApp.csproj|solutionrelative:testavalonijaabilitiesapp\\views\\todolistview.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{04FEA3AF-C4D6-4BD7-8AEF-92D148F5BA46}|testAvalonijaAbilitiesApp\\testAvalonijaAbilitiesApp.csproj|e:\\checj\\taskmanager\\testavalonijaabilitiesapp\\testavalonijaabilitiesapp\\viewmodels\\signupviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{04FEA3AF-C4D6-4BD7-8AEF-92D148F5BA46}|testAvalonijaAbilitiesApp\\testAvalonijaAbilitiesApp.csproj|e:\\myapp\\taskmanager-main\\testavalonijaabilitiesapp\\testavalonijaabilitiesapp\\viewmodels\\signupviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{04FEA3AF-C4D6-4BD7-8AEF-92D148F5BA46}|testAvalonijaAbilitiesApp\\testAvalonijaAbilitiesApp.csproj|solutionrelative:testavalonijaabilitiesapp\\viewmodels\\signupviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{04FEA3AF-C4D6-4BD7-8AEF-92D148F5BA46}|testAvalonijaAbilitiesApp\\testAvalonijaAbilitiesApp.csproj|e:\\checj\\taskmanager\\testavalonijaabilitiesapp\\testavalonijaabilitiesapp\\views\\loginwindow.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}",
+      "AbsoluteMoniker": "D:0:0:{04FEA3AF-C4D6-4BD7-8AEF-92D148F5BA46}|testAvalonijaAbilitiesApp\\testAvalonijaAbilitiesApp.csproj|e:\\myapp\\taskmanager-main\\testavalonijaabilitiesapp\\testavalonijaabilitiesapp\\views\\loginwindow.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}",
       "RelativeMoniker": "D:0:0:{04FEA3AF-C4D6-4BD7-8AEF-92D148F5BA46}|testAvalonijaAbilitiesApp\\testAvalonijaAbilitiesApp.csproj|solutionrelative:testavalonijaabilitiesapp\\views\\loginwindow.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{04FEA3AF-C4D6-4BD7-8AEF-92D148F5BA46}|testAvalonijaAbilitiesApp\\testAvalonijaAbilitiesApp.csproj|e:\\checj\\taskmanager\\testavalonijaabilitiesapp\\testavalonijaabilitiesapp\\views\\registerwindow.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}",
+      "AbsoluteMoniker": "D:0:0:{04FEA3AF-C4D6-4BD7-8AEF-92D148F5BA46}|testAvalonijaAbilitiesApp\\testAvalonijaAbilitiesApp.csproj|e:\\myapp\\taskmanager-main\\testavalonijaabilitiesapp\\testavalonijaabilitiesapp\\views\\registerwindow.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}",
       "RelativeMoniker": "D:0:0:{04FEA3AF-C4D6-4BD7-8AEF-92D148F5BA46}|testAvalonijaAbilitiesApp\\testAvalonijaAbilitiesApp.csproj|solutionrelative:testavalonijaabilitiesapp\\views\\registerwindow.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{04FEA3AF-C4D6-4BD7-8AEF-92D148F5BA46}|testAvalonijaAbilitiesApp\\testAvalonijaAbilitiesApp.csproj|e:\\checj\\taskmanager\\testavalonijaabilitiesapp\\testavalonijaabilitiesapp\\app.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}",
+      "AbsoluteMoniker": "D:0:0:{04FEA3AF-C4D6-4BD7-8AEF-92D148F5BA46}|testAvalonijaAbilitiesApp\\testAvalonijaAbilitiesApp.csproj|e:\\myapp\\taskmanager-main\\testavalonijaabilitiesapp\\testavalonijaabilitiesapp\\app.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}",
       "RelativeMoniker": "D:0:0:{04FEA3AF-C4D6-4BD7-8AEF-92D148F5BA46}|testAvalonijaAbilitiesApp\\testAvalonijaAbilitiesApp.csproj|solutionrelative:testavalonijaabilitiesapp\\app.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{04FEA3AF-C4D6-4BD7-8AEF-92D148F5BA46}|testAvalonijaAbilitiesApp\\testAvalonijaAbilitiesApp.csproj|e:\\checj\\taskmanager\\testavalonijaabilitiesapp\\testavalonijaabilitiesapp\\app.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{04FEA3AF-C4D6-4BD7-8AEF-92D148F5BA46}|testAvalonijaAbilitiesApp\\testAvalonijaAbilitiesApp.csproj|e:\\myapp\\taskmanager-main\\testavalonijaabilitiesapp\\testavalonijaabilitiesapp\\app.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{04FEA3AF-C4D6-4BD7-8AEF-92D148F5BA46}|testAvalonijaAbilitiesApp\\testAvalonijaAbilitiesApp.csproj|solutionrelative:testavalonijaabilitiesapp\\app.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{04FEA3AF-C4D6-4BD7-8AEF-92D148F5BA46}|testAvalonijaAbilitiesApp\\testAvalonijaAbilitiesApp.csproj|e:\\checj\\taskmanager\\testavalonijaabilitiesapp\\testavalonijaabilitiesapp\\viewmodels\\signinviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{04FEA3AF-C4D6-4BD7-8AEF-92D148F5BA46}|testAvalonijaAbilitiesApp\\testAvalonijaAbilitiesApp.csproj|e:\\myapp\\taskmanager-main\\testavalonijaabilitiesapp\\testavalonijaabilitiesapp\\viewmodels\\signinviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{04FEA3AF-C4D6-4BD7-8AEF-92D148F5BA46}|testAvalonijaAbilitiesApp\\testAvalonijaAbilitiesApp.csproj|solutionrelative:testavalonijaabilitiesapp\\viewmodels\\signinviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{04FEA3AF-C4D6-4BD7-8AEF-92D148F5BA46}|testAvalonijaAbilitiesApp\\testAvalonijaAbilitiesApp.csproj|e:\\checj\\taskmanager\\testavalonijaabilitiesapp\\testavalonijaabilitiesapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{04FEA3AF-C4D6-4BD7-8AEF-92D148F5BA46}|testAvalonijaAbilitiesApp\\testAvalonijaAbilitiesApp.csproj|e:\\myapp\\taskmanager-main\\testavalonijaabilitiesapp\\testavalonijaabilitiesapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{04FEA3AF-C4D6-4BD7-8AEF-92D148F5BA46}|testAvalonijaAbilitiesApp\\testAvalonijaAbilitiesApp.csproj|solutionrelative:testavalonijaabilitiesapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{04FEA3AF-C4D6-4BD7-8AEF-92D148F5BA46}|testAvalonijaAbilitiesApp\\testAvalonijaAbilitiesApp.csproj|e:\\checj\\taskmanager\\testavalonijaabilitiesapp\\testavalonijaabilitiesapp\\testavalonijaabilitiesapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{04FEA3AF-C4D6-4BD7-8AEF-92D148F5BA46}|testAvalonijaAbilitiesApp\\testAvalonijaAbilitiesApp.csproj|e:\\myapp\\taskmanager-main\\testavalonijaabilitiesapp\\testavalonijaabilitiesapp\\testavalonijaabilitiesapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{04FEA3AF-C4D6-4BD7-8AEF-92D148F5BA46}|testAvalonijaAbilitiesApp\\testAvalonijaAbilitiesApp.csproj|solutionrelative:testavalonijaabilitiesapp\\testavalonijaabilitiesapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{04FEA3AF-C4D6-4BD7-8AEF-92D148F5BA46}|testAvalonijaAbilitiesApp\\testAvalonijaAbilitiesApp.csproj|e:\\checj\\taskmanager\\testavalonijaabilitiesapp\\testavalonijaabilitiesapp\\datamodel\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{04FEA3AF-C4D6-4BD7-8AEF-92D148F5BA46}|testAvalonijaAbilitiesApp\\testAvalonijaAbilitiesApp.csproj|e:\\myapp\\taskmanager-main\\testavalonijaabilitiesapp\\testavalonijaabilitiesapp\\datamodel\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{04FEA3AF-C4D6-4BD7-8AEF-92D148F5BA46}|testAvalonijaAbilitiesApp\\testAvalonijaAbilitiesApp.csproj|solutionrelative:testavalonijaabilitiesapp\\datamodel\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{04FEA3AF-C4D6-4BD7-8AEF-92D148F5BA46}|testAvalonijaAbilitiesApp\\testAvalonijaAbilitiesApp.csproj|e:\\checj\\taskmanager\\testavalonijaabilitiesapp\\testavalonijaabilitiesapp\\views\\registerwindow.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{04FEA3AF-C4D6-4BD7-8AEF-92D148F5BA46}|testAvalonijaAbilitiesApp\\testAvalonijaAbilitiesApp.csproj|e:\\myapp\\taskmanager-main\\testavalonijaabilitiesapp\\testavalonijaabilitiesapp\\views\\registerwindow.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{04FEA3AF-C4D6-4BD7-8AEF-92D148F5BA46}|testAvalonijaAbilitiesApp\\testAvalonijaAbilitiesApp.csproj|solutionrelative:testavalonijaabilitiesapp\\views\\registerwindow.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{04FEA3AF-C4D6-4BD7-8AEF-92D148F5BA46}|testAvalonijaAbilitiesApp\\testAvalonijaAbilitiesApp.csproj|e:\\checj\\taskmanager\\testavalonijaabilitiesapp\\testavalonijaabilitiesapp\\views\\loginwindow.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{04FEA3AF-C4D6-4BD7-8AEF-92D148F5BA46}|testAvalonijaAbilitiesApp\\testAvalonijaAbilitiesApp.csproj|e:\\myapp\\taskmanager-main\\testavalonijaabilitiesapp\\testavalonijaabilitiesapp\\views\\loginwindow.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{04FEA3AF-C4D6-4BD7-8AEF-92D148F5BA46}|testAvalonijaAbilitiesApp\\testAvalonijaAbilitiesApp.csproj|solutionrelative:testavalonijaabilitiesapp\\views\\loginwindow.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{04FEA3AF-C4D6-4BD7-8AEF-92D148F5BA46}|testAvalonijaAbilitiesApp\\testAvalonijaAbilitiesApp.csproj|e:\\checj\\taskmanager\\testavalonijaabilitiesapp\\testavalonijaabilitiesapp\\views\\mainwindow.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{04FEA3AF-C4D6-4BD7-8AEF-92D148F5BA46}|testAvalonijaAbilitiesApp\\testAvalonijaAbilitiesApp.csproj|e:\\myapp\\taskmanager-main\\testavalonijaabilitiesapp\\testavalonijaabilitiesapp\\views\\mainwindow.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{04FEA3AF-C4D6-4BD7-8AEF-92D148F5BA46}|testAvalonijaAbilitiesApp\\testAvalonijaAbilitiesApp.csproj|solutionrelative:testavalonijaabilitiesapp\\views\\mainwindow.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{04FEA3AF-C4D6-4BD7-8AEF-92D148F5BA46}|testAvalonijaAbilitiesApp\\testAvalonijaAbilitiesApp.csproj|e:\\checj\\taskmanager\\testavalonijaabilitiesapp\\testavalonijaabilitiesapp\\viewmodels\\viewmodelbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{04FEA3AF-C4D6-4BD7-8AEF-92D148F5BA46}|testAvalonijaAbilitiesApp\\testAvalonijaAbilitiesApp.csproj|e:\\myapp\\taskmanager-main\\testavalonijaabilitiesapp\\testavalonijaabilitiesapp\\viewmodels\\viewmodelbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{04FEA3AF-C4D6-4BD7-8AEF-92D148F5BA46}|testAvalonijaAbilitiesApp\\testAvalonijaAbilitiesApp.csproj|solutionrelative:testavalonijaabilitiesapp\\viewmodels\\viewmodelbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{04FEA3AF-C4D6-4BD7-8AEF-92D148F5BA46}|testAvalonijaAbilitiesApp\\testAvalonijaAbilitiesApp.csproj|e:\\checj\\taskmanager\\testavalonijaabilitiesapp\\testavalonijaabilitiesapp\\app.manifest||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "AbsoluteMoniker": "D:0:0:{04FEA3AF-C4D6-4BD7-8AEF-92D148F5BA46}|testAvalonijaAbilitiesApp\\testAvalonijaAbilitiesApp.csproj|e:\\myapp\\taskmanager-main\\testavalonijaabilitiesapp\\testavalonijaabilitiesapp\\app.manifest||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
       "RelativeMoniker": "D:0:0:{04FEA3AF-C4D6-4BD7-8AEF-92D148F5BA46}|testAvalonijaAbilitiesApp\\testAvalonijaAbilitiesApp.csproj|solutionrelative:testavalonijaabilitiesapp\\app.manifest||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{04FEA3AF-C4D6-4BD7-8AEF-92D148F5BA46}|testAvalonijaAbilitiesApp\\testAvalonijaAbilitiesApp.csproj|e:\\checj\\taskmanager\\testavalonijaabilitiesapp\\testavalonijaabilitiesapp\\assets\\avalonia-logo.ico||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "AbsoluteMoniker": "D:0:0:{04FEA3AF-C4D6-4BD7-8AEF-92D148F5BA46}|testAvalonijaAbilitiesApp\\testAvalonijaAbilitiesApp.csproj|e:\\myapp\\taskmanager-main\\testavalonijaabilitiesapp\\testavalonijaabilitiesapp\\assets\\avalonia-logo.ico||{177559E0-D141-11D0-92DF-00A0C9138C45}",
       "RelativeMoniker": "D:0:0:{04FEA3AF-C4D6-4BD7-8AEF-92D148F5BA46}|testAvalonijaAbilitiesApp\\testAvalonijaAbilitiesApp.csproj|solutionrelative:testavalonijaabilitiesapp\\assets\\avalonia-logo.ico||{177559E0-D141-11D0-92DF-00A0C9138C45}"
     },
     {
@@ -129,15 +129,15 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "ToDoListViewModel.cs",
-              "DocumentMoniker": "E:\\checj\\TaskManager\\testAvalonijaAbilitiesApp\\testAvalonijaAbilitiesApp\\ViewModels\\ToDoListViewModel.cs",
+              "DocumentMoniker": "E:\\MyApp\\TaskManager-main\\testAvalonijaAbilitiesApp\\testAvalonijaAbilitiesApp\\ViewModels\\ToDoListViewModel.cs",
               "RelativeDocumentMoniker": "testAvalonijaAbilitiesApp\\ViewModels\\ToDoListViewModel.cs",
-              "ToolTip": "E:\\checj\\TaskManager\\testAvalonijaAbilitiesApp\\testAvalonijaAbilitiesApp\\ViewModels\\ToDoListViewModel.cs",
+              "ToolTip": "E:\\MyApp\\TaskManager-main\\testAvalonijaAbilitiesApp\\testAvalonijaAbilitiesApp\\ViewModels\\ToDoListViewModel.cs",
               "RelativeToolTip": "testAvalonijaAbilitiesApp\\ViewModels\\ToDoListViewModel.cs",
               "ViewState": "AQIAAPcBAAAAAAAAAAAvwA4CAABKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -147,9 +147,9 @@
               "$type": "Document",
               "DocumentIndex": 9,
               "Title": "TaskItem.cs",
-              "DocumentMoniker": "E:\\checj\\TaskManager\\testAvalonijaAbilitiesApp\\testAvalonijaAbilitiesApp\\DataModel\\TaskItem.cs",
+              "DocumentMoniker": "E:\\MyApp\\TaskManager-main\\testAvalonijaAbilitiesApp\\testAvalonijaAbilitiesApp\\DataModel\\TaskItem.cs",
               "RelativeDocumentMoniker": "testAvalonijaAbilitiesApp\\DataModel\\TaskItem.cs",
-              "ToolTip": "E:\\checj\\TaskManager\\testAvalonijaAbilitiesApp\\testAvalonijaAbilitiesApp\\DataModel\\TaskItem.cs",
+              "ToolTip": "E:\\MyApp\\TaskManager-main\\testAvalonijaAbilitiesApp\\testAvalonijaAbilitiesApp\\DataModel\\TaskItem.cs",
               "RelativeToolTip": "testAvalonijaAbilitiesApp\\DataModel\\TaskItem.cs",
               "ViewState": "AQIAAAIAAAAAAAAAAAAcwBsAAAAoAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -159,9 +159,9 @@
               "$type": "Document",
               "DocumentIndex": 6,
               "Title": "ComplexTaskItem.cs",
-              "DocumentMoniker": "E:\\checj\\TaskManager\\testAvalonijaAbilitiesApp\\testAvalonijaAbilitiesApp\\DataModel\\ComplexTaskItem.cs",
+              "DocumentMoniker": "E:\\MyApp\\TaskManager-main\\testAvalonijaAbilitiesApp\\testAvalonijaAbilitiesApp\\DataModel\\ComplexTaskItem.cs",
               "RelativeDocumentMoniker": "testAvalonijaAbilitiesApp\\DataModel\\ComplexTaskItem.cs",
-              "ToolTip": "E:\\checj\\TaskManager\\testAvalonijaAbilitiesApp\\testAvalonijaAbilitiesApp\\DataModel\\ComplexTaskItem.cs",
+              "ToolTip": "E:\\MyApp\\TaskManager-main\\testAvalonijaAbilitiesApp\\testAvalonijaAbilitiesApp\\DataModel\\ComplexTaskItem.cs",
               "RelativeToolTip": "testAvalonijaAbilitiesApp\\DataModel\\ComplexTaskItem.cs",
               "ViewState": "AQIAAAYAAAAAAAAAAAAAABEAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -171,9 +171,9 @@
               "$type": "Document",
               "DocumentIndex": 11,
               "Title": "SignUpViewModel.cs",
-              "DocumentMoniker": "E:\\checj\\TaskManager\\testAvalonijaAbilitiesApp\\testAvalonijaAbilitiesApp\\ViewModels\\SignUpViewModel.cs",
+              "DocumentMoniker": "E:\\MyApp\\TaskManager-main\\testAvalonijaAbilitiesApp\\testAvalonijaAbilitiesApp\\ViewModels\\SignUpViewModel.cs",
               "RelativeDocumentMoniker": "testAvalonijaAbilitiesApp\\ViewModels\\SignUpViewModel.cs",
-              "ToolTip": "E:\\checj\\TaskManager\\testAvalonijaAbilitiesApp\\testAvalonijaAbilitiesApp\\ViewModels\\SignUpViewModel.cs",
+              "ToolTip": "E:\\MyApp\\TaskManager-main\\testAvalonijaAbilitiesApp\\testAvalonijaAbilitiesApp\\ViewModels\\SignUpViewModel.cs",
               "RelativeToolTip": "testAvalonijaAbilitiesApp\\ViewModels\\SignUpViewModel.cs",
               "ViewState": "AQIAAAIAAAAAAAAAAAAiwA0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -181,23 +181,24 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "ToDoListService.cs",
-              "DocumentMoniker": "E:\\checj\\TaskManager\\testAvalonijaAbilitiesApp\\testAvalonijaAbilitiesApp\\Services\\ToDoListService.cs",
+              "DocumentMoniker": "E:\\MyApp\\TaskManager-main\\testAvalonijaAbilitiesApp\\testAvalonijaAbilitiesApp\\Services\\ToDoListService.cs",
               "RelativeDocumentMoniker": "testAvalonijaAbilitiesApp\\Services\\ToDoListService.cs",
-              "ToolTip": "E:\\checj\\TaskManager\\testAvalonijaAbilitiesApp\\testAvalonijaAbilitiesApp\\Services\\ToDoListService.cs",
+              "ToolTip": "E:\\MyApp\\TaskManager-main\\testAvalonijaAbilitiesApp\\testAvalonijaAbilitiesApp\\Services\\ToDoListService.cs",
               "RelativeToolTip": "testAvalonijaAbilitiesApp\\Services\\ToDoListService.cs",
-              "ViewState": "AQIAAGsBAAAAAAAAAAAUwHYBAAAMAAAA",
+              "ViewState": "AQIAAHMBAAAAAAAAAAAiwIcBAABQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-05T13:19:44.951Z"
+              "WhenOpened": "2024-06-05T13:19:44.951Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "ToDoListView.axaml",
-              "DocumentMoniker": "E:\\checj\\TaskManager\\testAvalonijaAbilitiesApp\\testAvalonijaAbilitiesApp\\Views\\ToDoListView.axaml",
+              "DocumentMoniker": "E:\\MyApp\\TaskManager-main\\testAvalonijaAbilitiesApp\\testAvalonijaAbilitiesApp\\Views\\ToDoListView.axaml",
               "RelativeDocumentMoniker": "testAvalonijaAbilitiesApp\\Views\\ToDoListView.axaml",
-              "ToolTip": "E:\\checj\\TaskManager\\testAvalonijaAbilitiesApp\\testAvalonijaAbilitiesApp\\Views\\ToDoListView.axaml",
+              "ToolTip": "E:\\MyApp\\TaskManager-main\\testAvalonijaAbilitiesApp\\testAvalonijaAbilitiesApp\\Views\\ToDoListView.axaml",
               "RelativeToolTip": "testAvalonijaAbilitiesApp\\Views\\ToDoListView.axaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2024-06-05T12:50:37.373Z"
@@ -206,9 +207,9 @@
               "$type": "Document",
               "DocumentIndex": 8,
               "Title": "ViewLocator.cs",
-              "DocumentMoniker": "E:\\checj\\TaskManager\\testAvalonijaAbilitiesApp\\testAvalonijaAbilitiesApp\\ViewLocator.cs",
+              "DocumentMoniker": "E:\\MyApp\\TaskManager-main\\testAvalonijaAbilitiesApp\\testAvalonijaAbilitiesApp\\ViewLocator.cs",
               "RelativeDocumentMoniker": "testAvalonijaAbilitiesApp\\ViewLocator.cs",
-              "ToolTip": "E:\\checj\\TaskManager\\testAvalonijaAbilitiesApp\\testAvalonijaAbilitiesApp\\ViewLocator.cs",
+              "ToolTip": "E:\\MyApp\\TaskManager-main\\testAvalonijaAbilitiesApp\\testAvalonijaAbilitiesApp\\ViewLocator.cs",
               "RelativeToolTip": "testAvalonijaAbilitiesApp\\ViewLocator.cs",
               "ViewState": "AQIAAAgAAAAAAAAAAAAWwBYAAAAUAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -218,9 +219,9 @@
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "TaskTypeEnum.cs",
-              "DocumentMoniker": "E:\\checj\\TaskManager\\testAvalonijaAbilitiesApp\\testAvalonijaAbilitiesApp\\DataModel\\TaskTypeEnum.cs",
+              "DocumentMoniker": "E:\\MyApp\\TaskManager-main\\testAvalonijaAbilitiesApp\\testAvalonijaAbilitiesApp\\DataModel\\TaskTypeEnum.cs",
               "RelativeDocumentMoniker": "testAvalonijaAbilitiesApp\\DataModel\\TaskTypeEnum.cs",
-              "ToolTip": "E:\\checj\\TaskManager\\testAvalonijaAbilitiesApp\\testAvalonijaAbilitiesApp\\DataModel\\TaskTypeEnum.cs",
+              "ToolTip": "E:\\MyApp\\TaskManager-main\\testAvalonijaAbilitiesApp\\testAvalonijaAbilitiesApp\\DataModel\\TaskTypeEnum.cs",
               "RelativeToolTip": "testAvalonijaAbilitiesApp\\DataModel\\TaskTypeEnum.cs",
               "ViewState": "AQIAAAsAAAAAAAAAAAAQwBMAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -228,11 +229,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "MainWindowViewModel.cs",
-              "DocumentMoniker": "E:\\checj\\TaskManager\\testAvalonijaAbilitiesApp\\testAvalonijaAbilitiesApp\\ViewModels\\MainWindowViewModel.cs",
+              "DocumentMoniker": "E:\\MyApp\\TaskManager-main\\testAvalonijaAbilitiesApp\\testAvalonijaAbilitiesApp\\ViewModels\\MainWindowViewModel.cs",
               "RelativeDocumentMoniker": "testAvalonijaAbilitiesApp\\ViewModels\\MainWindowViewModel.cs",
-              "ToolTip": "E:\\checj\\TaskManager\\testAvalonijaAbilitiesApp\\testAvalonijaAbilitiesApp\\ViewModels\\MainWindowViewModel.cs",
+              "ToolTip": "E:\\MyApp\\TaskManager-main\\testAvalonijaAbilitiesApp\\testAvalonijaAbilitiesApp\\ViewModels\\MainWindowViewModel.cs",
               "RelativeToolTip": "testAvalonijaAbilitiesApp\\ViewModels\\MainWindowViewModel.cs",
               "ViewState": "AQIAABsAAAAAAAAAAAAowBcAAABBAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -243,9 +244,9 @@
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "MainWindow.axaml",
-              "DocumentMoniker": "E:\\checj\\TaskManager\\testAvalonijaAbilitiesApp\\testAvalonijaAbilitiesApp\\Views\\MainWindow.axaml",
+              "DocumentMoniker": "E:\\MyApp\\TaskManager-main\\testAvalonijaAbilitiesApp\\testAvalonijaAbilitiesApp\\Views\\MainWindow.axaml",
               "RelativeDocumentMoniker": "testAvalonijaAbilitiesApp\\Views\\MainWindow.axaml",
-              "ToolTip": "E:\\checj\\TaskManager\\testAvalonijaAbilitiesApp\\testAvalonijaAbilitiesApp\\Views\\MainWindow.axaml",
+              "ToolTip": "E:\\MyApp\\TaskManager-main\\testAvalonijaAbilitiesApp\\testAvalonijaAbilitiesApp\\Views\\MainWindow.axaml",
               "RelativeToolTip": "testAvalonijaAbilitiesApp\\Views\\MainWindow.axaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2024-06-05T12:49:03.499Z"
@@ -254,9 +255,9 @@
               "$type": "Document",
               "DocumentIndex": 7,
               "Title": "AddItemConverter.cs",
-              "DocumentMoniker": "E:\\checj\\TaskManager\\testAvalonijaAbilitiesApp\\testAvalonijaAbilitiesApp\\DataModel\\AddItemConverter.cs",
+              "DocumentMoniker": "E:\\MyApp\\TaskManager-main\\testAvalonijaAbilitiesApp\\testAvalonijaAbilitiesApp\\DataModel\\AddItemConverter.cs",
               "RelativeDocumentMoniker": "testAvalonijaAbilitiesApp\\DataModel\\AddItemConverter.cs",
-              "ToolTip": "E:\\checj\\TaskManager\\testAvalonijaAbilitiesApp\\testAvalonijaAbilitiesApp\\DataModel\\AddItemConverter.cs",
+              "ToolTip": "E:\\MyApp\\TaskManager-main\\testAvalonijaAbilitiesApp\\testAvalonijaAbilitiesApp\\DataModel\\AddItemConverter.cs",
               "RelativeToolTip": "testAvalonijaAbilitiesApp\\DataModel\\AddItemConverter.cs",
               "ViewState": "AQIAAAYAAAAAAAAAAAAWwBsAAAASAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -266,9 +267,9 @@
               "$type": "Document",
               "DocumentIndex": 10,
               "Title": "ToDoListView.axaml.cs",
-              "DocumentMoniker": "E:\\checj\\TaskManager\\testAvalonijaAbilitiesApp\\testAvalonijaAbilitiesApp\\Views\\ToDoListView.axaml.cs",
+              "DocumentMoniker": "E:\\MyApp\\TaskManager-main\\testAvalonijaAbilitiesApp\\testAvalonijaAbilitiesApp\\Views\\ToDoListView.axaml.cs",
               "RelativeDocumentMoniker": "testAvalonijaAbilitiesApp\\Views\\ToDoListView.axaml.cs",
-              "ToolTip": "E:\\checj\\TaskManager\\testAvalonijaAbilitiesApp\\testAvalonijaAbilitiesApp\\Views\\ToDoListView.axaml.cs",
+              "ToolTip": "E:\\MyApp\\TaskManager-main\\testAvalonijaAbilitiesApp\\testAvalonijaAbilitiesApp\\Views\\ToDoListView.axaml.cs",
               "RelativeToolTip": "testAvalonijaAbilitiesApp\\Views\\ToDoListView.axaml.cs",
               "ViewState": "AQIAAAUAAAAAAAAAAAAWwBMAAAAoAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -278,9 +279,9 @@
               "$type": "Document",
               "DocumentIndex": 14,
               "Title": "App.axaml",
-              "DocumentMoniker": "E:\\checj\\TaskManager\\testAvalonijaAbilitiesApp\\testAvalonijaAbilitiesApp\\App.axaml",
+              "DocumentMoniker": "E:\\MyApp\\TaskManager-main\\testAvalonijaAbilitiesApp\\testAvalonijaAbilitiesApp\\App.axaml",
               "RelativeDocumentMoniker": "testAvalonijaAbilitiesApp\\App.axaml",
-              "ToolTip": "E:\\checj\\TaskManager\\testAvalonijaAbilitiesApp\\testAvalonijaAbilitiesApp\\App.axaml",
+              "ToolTip": "E:\\MyApp\\TaskManager-main\\testAvalonijaAbilitiesApp\\testAvalonijaAbilitiesApp\\App.axaml",
               "RelativeToolTip": "testAvalonijaAbilitiesApp\\App.axaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2024-06-13T13:07:35.093Z"
@@ -289,9 +290,9 @@
               "$type": "Document",
               "DocumentIndex": 12,
               "Title": "LoginWindow.axaml",
-              "DocumentMoniker": "E:\\checj\\TaskManager\\testAvalonijaAbilitiesApp\\testAvalonijaAbilitiesApp\\Views\\LoginWindow.axaml",
+              "DocumentMoniker": "E:\\MyApp\\TaskManager-main\\testAvalonijaAbilitiesApp\\testAvalonijaAbilitiesApp\\Views\\LoginWindow.axaml",
               "RelativeDocumentMoniker": "testAvalonijaAbilitiesApp\\Views\\LoginWindow.axaml",
-              "ToolTip": "E:\\checj\\TaskManager\\testAvalonijaAbilitiesApp\\testAvalonijaAbilitiesApp\\Views\\LoginWindow.axaml",
+              "ToolTip": "E:\\MyApp\\TaskManager-main\\testAvalonijaAbilitiesApp\\testAvalonijaAbilitiesApp\\Views\\LoginWindow.axaml",
               "RelativeToolTip": "testAvalonijaAbilitiesApp\\Views\\LoginWindow.axaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2024-06-05T13:31:36.241Z"
@@ -300,9 +301,9 @@
               "$type": "Document",
               "DocumentIndex": 13,
               "Title": "RegisterWindow.axaml",
-              "DocumentMoniker": "E:\\checj\\TaskManager\\testAvalonijaAbilitiesApp\\testAvalonijaAbilitiesApp\\Views\\RegisterWindow.axaml",
+              "DocumentMoniker": "E:\\MyApp\\TaskManager-main\\testAvalonijaAbilitiesApp\\testAvalonijaAbilitiesApp\\Views\\RegisterWindow.axaml",
               "RelativeDocumentMoniker": "testAvalonijaAbilitiesApp\\Views\\RegisterWindow.axaml",
-              "ToolTip": "E:\\checj\\TaskManager\\testAvalonijaAbilitiesApp\\testAvalonijaAbilitiesApp\\Views\\RegisterWindow.axaml",
+              "ToolTip": "E:\\MyApp\\TaskManager-main\\testAvalonijaAbilitiesApp\\testAvalonijaAbilitiesApp\\Views\\RegisterWindow.axaml",
               "RelativeToolTip": "testAvalonijaAbilitiesApp\\Views\\RegisterWindow.axaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2024-06-18T06:21:30.772Z"
@@ -311,9 +312,9 @@
               "$type": "Document",
               "DocumentIndex": 15,
               "Title": "App.axaml.cs",
-              "DocumentMoniker": "E:\\checj\\TaskManager\\testAvalonijaAbilitiesApp\\testAvalonijaAbilitiesApp\\App.axaml.cs",
+              "DocumentMoniker": "E:\\MyApp\\TaskManager-main\\testAvalonijaAbilitiesApp\\testAvalonijaAbilitiesApp\\App.axaml.cs",
               "RelativeDocumentMoniker": "testAvalonijaAbilitiesApp\\App.axaml.cs",
-              "ToolTip": "E:\\checj\\TaskManager\\testAvalonijaAbilitiesApp\\testAvalonijaAbilitiesApp\\App.axaml.cs",
+              "ToolTip": "E:\\MyApp\\TaskManager-main\\testAvalonijaAbilitiesApp\\testAvalonijaAbilitiesApp\\App.axaml.cs",
               "RelativeToolTip": "testAvalonijaAbilitiesApp\\App.axaml.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -323,9 +324,9 @@
               "$type": "Document",
               "DocumentIndex": 16,
               "Title": "SignInViewModel.cs",
-              "DocumentMoniker": "E:\\checj\\TaskManager\\testAvalonijaAbilitiesApp\\testAvalonijaAbilitiesApp\\ViewModels\\SignInViewModel.cs",
+              "DocumentMoniker": "E:\\MyApp\\TaskManager-main\\testAvalonijaAbilitiesApp\\testAvalonijaAbilitiesApp\\ViewModels\\SignInViewModel.cs",
               "RelativeDocumentMoniker": "testAvalonijaAbilitiesApp\\ViewModels\\SignInViewModel.cs",
-              "ToolTip": "E:\\checj\\TaskManager\\testAvalonijaAbilitiesApp\\testAvalonijaAbilitiesApp\\ViewModels\\SignInViewModel.cs",
+              "ToolTip": "E:\\MyApp\\TaskManager-main\\testAvalonijaAbilitiesApp\\testAvalonijaAbilitiesApp\\ViewModels\\SignInViewModel.cs",
               "RelativeToolTip": "testAvalonijaAbilitiesApp\\ViewModels\\SignInViewModel.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAADsAAAAhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -335,9 +336,9 @@
               "$type": "Document",
               "DocumentIndex": 19,
               "Title": "user.cs",
-              "DocumentMoniker": "E:\\checj\\TaskManager\\testAvalonijaAbilitiesApp\\testAvalonijaAbilitiesApp\\DataModel\\user.cs",
+              "DocumentMoniker": "E:\\MyApp\\TaskManager-main\\testAvalonijaAbilitiesApp\\testAvalonijaAbilitiesApp\\DataModel\\user.cs",
               "RelativeDocumentMoniker": "testAvalonijaAbilitiesApp\\DataModel\\user.cs",
-              "ToolTip": "E:\\checj\\TaskManager\\testAvalonijaAbilitiesApp\\testAvalonijaAbilitiesApp\\DataModel\\user.cs",
+              "ToolTip": "E:\\MyApp\\TaskManager-main\\testAvalonijaAbilitiesApp\\testAvalonijaAbilitiesApp\\DataModel\\user.cs",
               "RelativeToolTip": "testAvalonijaAbilitiesApp\\DataModel\\user.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAeAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -347,9 +348,9 @@
               "$type": "Document",
               "DocumentIndex": 18,
               "Title": "testAvalonijaAbilitiesApp.csproj",
-              "DocumentMoniker": "E:\\checj\\TaskManager\\testAvalonijaAbilitiesApp\\testAvalonijaAbilitiesApp\\testAvalonijaAbilitiesApp.csproj",
+              "DocumentMoniker": "E:\\MyApp\\TaskManager-main\\testAvalonijaAbilitiesApp\\testAvalonijaAbilitiesApp\\testAvalonijaAbilitiesApp.csproj",
               "RelativeDocumentMoniker": "testAvalonijaAbilitiesApp\\testAvalonijaAbilitiesApp.csproj",
-              "ToolTip": "E:\\checj\\TaskManager\\testAvalonijaAbilitiesApp\\testAvalonijaAbilitiesApp\\testAvalonijaAbilitiesApp.csproj",
+              "ToolTip": "E:\\MyApp\\TaskManager-main\\testAvalonijaAbilitiesApp\\testAvalonijaAbilitiesApp\\testAvalonijaAbilitiesApp.csproj",
               "RelativeToolTip": "testAvalonijaAbilitiesApp\\testAvalonijaAbilitiesApp.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
@@ -359,9 +360,9 @@
               "$type": "Document",
               "DocumentIndex": 17,
               "Title": "Program.cs",
-              "DocumentMoniker": "E:\\checj\\TaskManager\\testAvalonijaAbilitiesApp\\testAvalonijaAbilitiesApp\\Program.cs",
+              "DocumentMoniker": "E:\\MyApp\\TaskManager-main\\testAvalonijaAbilitiesApp\\testAvalonijaAbilitiesApp\\Program.cs",
               "RelativeDocumentMoniker": "testAvalonijaAbilitiesApp\\Program.cs",
-              "ToolTip": "E:\\checj\\TaskManager\\testAvalonijaAbilitiesApp\\testAvalonijaAbilitiesApp\\Program.cs",
+              "ToolTip": "E:\\MyApp\\TaskManager-main\\testAvalonijaAbilitiesApp\\testAvalonijaAbilitiesApp\\Program.cs",
               "RelativeToolTip": "testAvalonijaAbilitiesApp\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAyAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -371,9 +372,9 @@
               "$type": "Document",
               "DocumentIndex": 20,
               "Title": "RegisterWindow.axaml.cs",
-              "DocumentMoniker": "E:\\checj\\TaskManager\\testAvalonijaAbilitiesApp\\testAvalonijaAbilitiesApp\\Views\\RegisterWindow.axaml.cs",
+              "DocumentMoniker": "E:\\MyApp\\TaskManager-main\\testAvalonijaAbilitiesApp\\testAvalonijaAbilitiesApp\\Views\\RegisterWindow.axaml.cs",
               "RelativeDocumentMoniker": "testAvalonijaAbilitiesApp\\Views\\RegisterWindow.axaml.cs",
-              "ToolTip": "E:\\checj\\TaskManager\\testAvalonijaAbilitiesApp\\testAvalonijaAbilitiesApp\\Views\\RegisterWindow.axaml.cs",
+              "ToolTip": "E:\\MyApp\\TaskManager-main\\testAvalonijaAbilitiesApp\\testAvalonijaAbilitiesApp\\Views\\RegisterWindow.axaml.cs",
               "RelativeToolTip": "testAvalonijaAbilitiesApp\\Views\\RegisterWindow.axaml.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -442,9 +443,9 @@
               "$type": "Document",
               "DocumentIndex": 21,
               "Title": "LoginWindow.axaml.cs",
-              "DocumentMoniker": "E:\\checj\\TaskManager\\testAvalonijaAbilitiesApp\\testAvalonijaAbilitiesApp\\Views\\LoginWindow.axaml.cs",
+              "DocumentMoniker": "E:\\MyApp\\TaskManager-main\\testAvalonijaAbilitiesApp\\testAvalonijaAbilitiesApp\\Views\\LoginWindow.axaml.cs",
               "RelativeDocumentMoniker": "testAvalonijaAbilitiesApp\\Views\\LoginWindow.axaml.cs",
-              "ToolTip": "E:\\checj\\TaskManager\\testAvalonijaAbilitiesApp\\testAvalonijaAbilitiesApp\\Views\\LoginWindow.axaml.cs",
+              "ToolTip": "E:\\MyApp\\TaskManager-main\\testAvalonijaAbilitiesApp\\testAvalonijaAbilitiesApp\\Views\\LoginWindow.axaml.cs",
               "RelativeToolTip": "testAvalonijaAbilitiesApp\\Views\\LoginWindow.axaml.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -454,9 +455,9 @@
               "$type": "Document",
               "DocumentIndex": 22,
               "Title": "MainWindow.axaml.cs",
-              "DocumentMoniker": "E:\\checj\\TaskManager\\testAvalonijaAbilitiesApp\\testAvalonijaAbilitiesApp\\Views\\MainWindow.axaml.cs",
+              "DocumentMoniker": "E:\\MyApp\\TaskManager-main\\testAvalonijaAbilitiesApp\\testAvalonijaAbilitiesApp\\Views\\MainWindow.axaml.cs",
               "RelativeDocumentMoniker": "testAvalonijaAbilitiesApp\\Views\\MainWindow.axaml.cs",
-              "ToolTip": "E:\\checj\\TaskManager\\testAvalonijaAbilitiesApp\\testAvalonijaAbilitiesApp\\Views\\MainWindow.axaml.cs",
+              "ToolTip": "E:\\MyApp\\TaskManager-main\\testAvalonijaAbilitiesApp\\testAvalonijaAbilitiesApp\\Views\\MainWindow.axaml.cs",
               "RelativeToolTip": "testAvalonijaAbilitiesApp\\Views\\MainWindow.axaml.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -466,9 +467,9 @@
               "$type": "Document",
               "DocumentIndex": 23,
               "Title": "ViewModelBase.cs",
-              "DocumentMoniker": "E:\\checj\\TaskManager\\testAvalonijaAbilitiesApp\\testAvalonijaAbilitiesApp\\ViewModels\\ViewModelBase.cs",
+              "DocumentMoniker": "E:\\MyApp\\TaskManager-main\\testAvalonijaAbilitiesApp\\testAvalonijaAbilitiesApp\\ViewModels\\ViewModelBase.cs",
               "RelativeDocumentMoniker": "testAvalonijaAbilitiesApp\\ViewModels\\ViewModelBase.cs",
-              "ToolTip": "E:\\checj\\TaskManager\\testAvalonijaAbilitiesApp\\testAvalonijaAbilitiesApp\\ViewModels\\ViewModelBase.cs",
+              "ToolTip": "E:\\MyApp\\TaskManager-main\\testAvalonijaAbilitiesApp\\testAvalonijaAbilitiesApp\\ViewModels\\ViewModelBase.cs",
               "RelativeToolTip": "testAvalonijaAbilitiesApp\\ViewModels\\ViewModelBase.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -478,9 +479,9 @@
               "$type": "Document",
               "DocumentIndex": 24,
               "Title": "app.manifest",
-              "DocumentMoniker": "E:\\checj\\TaskManager\\testAvalonijaAbilitiesApp\\testAvalonijaAbilitiesApp\\app.manifest",
+              "DocumentMoniker": "E:\\MyApp\\TaskManager-main\\testAvalonijaAbilitiesApp\\testAvalonijaAbilitiesApp\\app.manifest",
               "RelativeDocumentMoniker": "testAvalonijaAbilitiesApp\\app.manifest",
-              "ToolTip": "E:\\checj\\TaskManager\\testAvalonijaAbilitiesApp\\testAvalonijaAbilitiesApp\\app.manifest",
+              "ToolTip": "E:\\MyApp\\TaskManager-main\\testAvalonijaAbilitiesApp\\testAvalonijaAbilitiesApp\\app.manifest",
               "RelativeToolTip": "testAvalonijaAbilitiesApp\\app.manifest",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001203|",
@@ -490,9 +491,9 @@
               "$type": "Document",
               "DocumentIndex": 25,
               "Title": "avalonia-logo.ico - Icon [16x16, 32 bit, BMP]",
-              "DocumentMoniker": "E:\\checj\\TaskManager\\testAvalonijaAbilitiesApp\\testAvalonijaAbilitiesApp\\Assets\\avalonia-logo.ico",
+              "DocumentMoniker": "E:\\MyApp\\TaskManager-main\\testAvalonijaAbilitiesApp\\testAvalonijaAbilitiesApp\\Assets\\avalonia-logo.ico",
               "RelativeDocumentMoniker": "testAvalonijaAbilitiesApp\\Assets\\avalonia-logo.ico",
-              "ToolTip": "E:\\checj\\TaskManager\\testAvalonijaAbilitiesApp\\testAvalonijaAbilitiesApp\\Assets\\avalonia-logo.ico - Icon [16x16, 32 bit, BMP]",
+              "ToolTip": "E:\\MyApp\\TaskManager-main\\testAvalonijaAbilitiesApp\\testAvalonijaAbilitiesApp\\Assets\\avalonia-logo.ico - Icon [16x16, 32 bit, BMP]",
               "RelativeToolTip": "testAvalonijaAbilitiesApp\\Assets\\avalonia-logo.ico - Icon [16x16, 32 bit, BMP]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001525|",
               "WhenOpened": "2024-06-05T16:01:09.044Z",

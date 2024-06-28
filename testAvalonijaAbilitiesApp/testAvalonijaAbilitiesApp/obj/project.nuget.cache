@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "GfMSVKwROEjU8yvnA7EaXRVoF/TiUWZSeMOGIO1+UZrIp2qgt34Dk6jrogP2L0AFc5a+QyuiDiRqbePpEHx8Cw==",
+  "dgSpecHash": "EJ24G6JLwA9CizNri5ZRJPQ6jy3AObJLX9L3X91llGuUHgS0AbrgQXE7dWxEbJNbZUCJeyot3LDumi0N0oqJfg==",
   "success": true,
-  "projectFilePath": "E:\\checj\\TaskManager\\testAvalonijaAbilitiesApp\\testAvalonijaAbilitiesApp\\testAvalonijaAbilitiesApp.csproj",
+  "projectFilePath": "E:\\MyApp\\TaskManager-main\\testAvalonijaAbilitiesApp\\testAvalonijaAbilitiesApp\\testAvalonijaAbilitiesApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\misha\\.nuget\\packages\\avalonia\\11.0.2\\avalonia.11.0.2.nupkg.sha512",
     "C:\\Users\\misha\\.nuget\\packages\\avalonia.angle.windows.natives\\2.1.0.2023020321\\avalonia.angle.windows.natives.2.1.0.2023020321.nupkg.sha512",

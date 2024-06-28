@@ -13,21 +13,21 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = testAvalonijaAbilitiesApp
-build_property.ProjectDir = E:\checj\TaskManager\testAvalonijaAbilitiesApp\testAvalonijaAbilitiesApp\
+build_property.ProjectDir = E:\MyApp\TaskManager-main\testAvalonijaAbilitiesApp\testAvalonijaAbilitiesApp\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 
-[E:/checj/TaskManager/testAvalonijaAbilitiesApp/testAvalonijaAbilitiesApp/App.axaml]
+[E:/MyApp/TaskManager-main/testAvalonijaAbilitiesApp/testAvalonijaAbilitiesApp/App.axaml]
 build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
 
-[E:/checj/TaskManager/testAvalonijaAbilitiesApp/testAvalonijaAbilitiesApp/Views/LoginWindow.axaml]
+[E:/MyApp/TaskManager-main/testAvalonijaAbilitiesApp/testAvalonijaAbilitiesApp/Views/LoginWindow.axaml]
 build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
 
-[E:/checj/TaskManager/testAvalonijaAbilitiesApp/testAvalonijaAbilitiesApp/Views/MainWindow.axaml]
+[E:/MyApp/TaskManager-main/testAvalonijaAbilitiesApp/testAvalonijaAbilitiesApp/Views/MainWindow.axaml]
 build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
 
-[E:/checj/TaskManager/testAvalonijaAbilitiesApp/testAvalonijaAbilitiesApp/Views/RegisterWindow.axaml]
+[E:/MyApp/TaskManager-main/testAvalonijaAbilitiesApp/testAvalonijaAbilitiesApp/Views/RegisterWindow.axaml]
 build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
 
-[E:/checj/TaskManager/testAvalonijaAbilitiesApp/testAvalonijaAbilitiesApp/Views/ToDoListView.axaml]
+[E:/MyApp/TaskManager-main/testAvalonijaAbilitiesApp/testAvalonijaAbilitiesApp/Views/ToDoListView.axaml]
 build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml

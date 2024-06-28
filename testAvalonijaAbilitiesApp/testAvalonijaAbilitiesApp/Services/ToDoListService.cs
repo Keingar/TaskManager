@@ -381,7 +381,7 @@ namespace ToDoList.Services
 
             string restoreQuery = $@"
                 USE master;
-                ALTER DATABASE [{databaseName}] SET SINGLE_USER WITH ROLLBACK IMMEDIATE;
+                Create DATABASE [{databaseName}] SET SINGLE_USER WITH ROLLBACK IMMEDIATE;
                 RESTORE DATABASE [{databaseName}]
                 FROM DISK = N'{backupFilePath}'
                 WITH MOVE '{databaseName}' TO N'E:\\testAvaloniaAbilitiesApp\\testAvalonijaAbilitiesApp\\testAvalonijaAbilitiesApp\\bin\\Debug\\net6.0\\{databaseName}.mdf',
@@ -397,7 +397,10 @@ namespace ToDoList.Services
 
         public static bool DatabaseExists()
         {
-            using SqlConnection connection = new(connectionString);
+            string newConnectionString = "Server=localhost;Database=Master;Integrated Security=True;";
+
+
+            using SqlConnection connection = new(newConnectionString);
             connection.Open();
             using SqlCommand command = new($"SELECT database_id FROM sys.databases WHERE Name = 'TaskManagerDB'", connection);
             return (command.ExecuteScalar() != null);

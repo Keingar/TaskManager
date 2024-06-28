@@ -5180,11 +5180,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\checj\\TaskManager\\testAvalonijaAbilitiesApp\\testAvalonijaAbilitiesApp\\testAvalonijaAbilitiesApp.csproj",
+      "projectUniqueName": "E:\\MyApp\\TaskManager-main\\testAvalonijaAbilitiesApp\\testAvalonijaAbilitiesApp\\testAvalonijaAbilitiesApp.csproj",
       "projectName": "testAvalonijaAbilitiesApp",
-      "projectPath": "E:\\checj\\TaskManager\\testAvalonijaAbilitiesApp\\testAvalonijaAbilitiesApp\\testAvalonijaAbilitiesApp.csproj",
+      "projectPath": "E:\\MyApp\\TaskManager-main\\testAvalonijaAbilitiesApp\\testAvalonijaAbilitiesApp\\testAvalonijaAbilitiesApp.csproj",
       "packagesPath": "C:\\Users\\misha\\.nuget\\packages\\",
-      "outputPath": "E:\\checj\\TaskManager\\testAvalonijaAbilitiesApp\\testAvalonijaAbilitiesApp\\obj\\",
+      "outputPath": "E:\\MyApp\\TaskManager-main\\testAvalonijaAbilitiesApp\\testAvalonijaAbilitiesApp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

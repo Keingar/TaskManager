@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("testAvalonijaAbilitiesApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9cd6f8d21918aba2e7c4096d27a8540c269d8013")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
 [assembly: System.Reflection.AssemblyProductAttribute("testAvalonijaAbilitiesApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("testAvalonijaAbilitiesApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
