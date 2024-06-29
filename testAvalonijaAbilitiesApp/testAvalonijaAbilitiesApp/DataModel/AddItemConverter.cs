@@ -35,7 +35,7 @@ namespace MyPersonalConverterNamespace
             throw new NotSupportedException();
         }
 
-        static private int? ParseInt(string input)
+        static public int? ParseInt(string input)
         {
             if (int.TryParse(input, out int result))
             {

@@ -1,10 +1,5 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Collections.ObjectModel;
-using testAvalonijaAbilitiesApp.ViewModels;
-using ToDoList.DataModel;
+﻿using testAvalonijaAbilitiesApp.ViewModels;
 using ReactiveUI;
-using System.Reactive;
 using ToDoList.Services;
 
 namespace ToDoList.ViewModels

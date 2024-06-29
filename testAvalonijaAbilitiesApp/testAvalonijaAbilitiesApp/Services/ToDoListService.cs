@@ -4,7 +4,6 @@ using System.Data;
 using System.Data.SqlClient;
 using System.Linq;
 using System.Text;
-using System.Threading.Tasks;
 using testAvalonijaAbilitiesApp.DataModel;
 using ToDoList.DataModel;
 using System.Security.Cryptography;
@@ -368,32 +367,28 @@ namespace ToDoList.Services
 
         public static void RestoreDatabase(string databaseName)
         {
-            // Specify the path to your .bak file
             string currentDirectory = AppDomain.CurrentDomain.BaseDirectory;
             string backupFileName = "TaskManagerDB.bak";
             string backupFilePath = Path.Combine(currentDirectory, backupFileName);
 
-            // Specify paths for .mdf and .ldf files
             string dataFilePath = Path.Combine(currentDirectory, $"{databaseName}.mdf");
             string logFilePath = Path.Combine(currentDirectory, $"{databaseName}_Log.ldf");
 
-            string newConnectionString = "Server=localhost;Database=Master;Integrated Security=True;";
+            string newConnectionString = "Server=localhost;Database=master;Integrated Security=True;";
 
             using SqlConnection connection = new SqlConnection(newConnectionString);
             connection.Open();
 
-            // Create the database if it doesn't exist
             string createDbQuery = $@"
-        IF NOT EXISTS (SELECT * FROM sys.databases WHERE name = N'{databaseName}')
-        BEGIN
-            CREATE DATABASE [{databaseName}];
-        END;
-    ";
+                IF NOT EXISTS (SELECT * FROM sys.databases WHERE name = N'{databaseName}')
+                BEGIN
+                    CREATE DATABASE [{databaseName}];
+                END;
+            ";
 
             using SqlCommand createDbCommand = new SqlCommand(createDbQuery, connection);
             createDbCommand.ExecuteNonQuery();
 
-            // Restore the database
                 string restoreQuery = $@"
             ALTER DATABASE [{databaseName}] SET SINGLE_USER WITH ROLLBACK IMMEDIATE;
             RESTORE DATABASE [{databaseName}]

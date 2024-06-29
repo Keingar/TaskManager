@@ -2,25 +2,14 @@
 using System;
 using System.Collections.Generic;
 using System.Collections.ObjectModel;
-using System.Data.SqlClient;
 using System.Data;
 using System.Linq;
 using System.Reactive;
-using System.Threading.Tasks;
 using testAvalonijaAbilitiesApp.ViewModels;
 using ToDoList.DataModel;
 using testAvalonijaAbilitiesApp.DataModel;
-using Avalonia.Controls;
-using Avalonia.Interactivity;
-using System.ComponentModel;
-using System.Windows.Input;
-using CommunityToolkit.Mvvm.ComponentModel;
-using CommunityToolkit.Mvvm.Input;
-using System.Linq.Expressions;
 using ToDoList.Services;
-using System.Runtime.CompilerServices;
-using Microsoft.VisualBasic;
-using Avalonia.Input;
+using MyPersonalConverterNamespace;
 
 namespace ToDoList.ViewModels
 {
@@ -80,7 +69,7 @@ namespace ToDoList.ViewModels
         private void DeleteTaskButtonPressed(TaskItem taskItem)
         {
             ComplexTaskItem? SaveRelatedComplexItem = null;
-
+                
             if (taskItem.ParentComplexTask != null)
             {
                 SaveRelatedComplexItem = taskItem.ParentComplexTask;
@@ -248,11 +237,33 @@ namespace ToDoList.ViewModels
             set => this.RaiseAndSetIfChanged(ref _ourTaskType, value);
         }
 
+
+        public string _ourTaskProgressRaw = string.Empty;
+
         private int _ourTaskProgress = 0;
+
         public int OurTaskProgress
         {
             get => _ourTaskProgress;
             set => this.RaiseAndSetIfChanged(ref _ourTaskProgress, value);
+        }
+
+        public string OurTaskProgressRaw
+        {
+            get => _ourTaskProgressRaw;
+            set
+            {
+                // Store the raw input
+                this.RaiseAndSetIfChanged(ref _ourTaskProgressRaw, value);
+
+                // Use the ParseInt function to validate and parse the input
+                int? parsedValue = TaskParametersConverter.ParseInt(value);
+                if (parsedValue.HasValue)
+                {
+                    // If parsing is successful, update the integer property
+                    this.RaiseAndSetIfChanged(ref _ourTaskProgress, parsedValue.Value);
+                }
+            }
         }
 
         private void CreateNewTaskExecute()

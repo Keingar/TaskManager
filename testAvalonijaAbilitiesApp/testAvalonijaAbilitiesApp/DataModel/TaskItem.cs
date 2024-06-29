@@ -1,14 +1,9 @@
 ﻿using ReactiveUI;
 using System;
-using System.Data.SqlClient;
-using System.Data;
 using System.Reactive;
 using ToDoList.ViewModels;
-using System.Threading.Tasks;
 using testAvalonijaAbilitiesApp.DataModel;
 using ToDoList.Services;
-using Avalonia.Controls;
-using Avalonia;
 
 namespace ToDoList.DataModel
 {

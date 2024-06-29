@@ -141,7 +141,7 @@
 									<DatePicker  Grid.Row="6" HorizontalAlignment="Stretch" Name="DueDatePicker" DayFormat="ddd dd" SelectedDate="{Binding OurDate, Mode=TwoWay}"/>
 
 									<TextBlock Grid.Row="7" Classes ="TextInFlayers">Write max progress</TextBlock>
-									<TextBox  Grid.Row="8" Name="MaxProgressTextBox"  Watermark="Max Progress" Margin="0,0,0,15" Text="{Binding OurTaskProgress, Mode=TwoWay}"/>
+									<TextBox  Grid.Row="8" Name="MaxProgressTextBox"  Watermark="Max Progress" Margin="0,0,0,15" Text="{Binding OurTaskProgressRaw, Mode=TwoWay}"/>
 
 									<Grid Grid.Row="9" ColumnDefinitions="*">
 										<Button	Grid.Column="0"
@@ -336,16 +336,17 @@
 										<Grid RowDefinitions="Auto, *, Auto" Background="#1f1f1f">
 
 											<!-- Task Title Section-->
-											<Grid Grid.Row="0" Height="40" ColumnDefinitions="*, Auto, Auto">
+											<Grid Grid.Row="0" Height="40" ColumnDefinitions="*, Auto, Auto,Auto">
 												<!-- Task Title itself binded here-->
 												<StackPanel Grid.Column="0" VerticalAlignment="Center" HorizontalAlignment="Left" Margin="10, 0, 0, 0">
 													<TextBlock FontSize="22" Text="{Binding Title}" Margin="2" Foreground="White"/>
 												</StackPanel>
+												
+												<TextBlock VerticalAlignment="Center" Grid.Column="1" FontSize="16" Text="{Binding DueDate, StringFormat=\{0:yyyy-MM-dd\}}"></TextBlock>
 
 												<!-- Change progress button-->
 
-
-												<Button Grid.Column="1"
+												<Button Grid.Column="2"
 													Name="ChangeProgressButton"
 													Content="Button with Flyout"
 													Height="40"
@@ -404,7 +405,7 @@
 												</Button>
 
 												<!-- Edit task button-->
-												<Button Grid.Column="2"
+												<Button Grid.Column="3"
 													Height="40"
 													Width="80"
 													HorizontalContentAlignment="Center"
@@ -436,11 +437,14 @@
 
 																	<Grid Grid.Row="1" ColumnDefinitions="*">
 																		<TextBlock Classes ="TextInFlayers">Description:</TextBlock>
+																		
 																	</Grid>
 
 																	<Grid Grid.Row="2" Height="200" ColumnDefinitions="*">
 
-																		<TextBox Grid.Column="0" Watermark="Task Description" Margin="1" Text="{Binding TaskDescription, Mode=TwoWay}"/>
+																		<TextBox Grid.Column="0" Width="350" Height="200" TextWrapping="Wrap" AcceptsReturn="True" Watermark="Task Description" Margin="1" Text="{Binding TaskDescription, Mode=TwoWay}"/>
+
+
 																	</Grid>
 
 																	<Grid Grid.Row="3" ColumnDefinitions=" *">

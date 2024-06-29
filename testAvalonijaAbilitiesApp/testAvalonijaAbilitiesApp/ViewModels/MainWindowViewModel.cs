@@ -1,9 +1,6 @@
 ﻿using ToDoList.Services;
 using ToDoList.ViewModels;
 using ReactiveUI;
-using System;
-using System.Reactive.Linq;
-using ToDoList.DataModel;
 using testAvalonijaAbilitiesApp.DataModel;
 using System.Reactive;
 

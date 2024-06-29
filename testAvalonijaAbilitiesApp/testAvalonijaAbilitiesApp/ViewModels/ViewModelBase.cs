@@ -1,7 +1,4 @@
-﻿using CommunityToolkit.Mvvm.ComponentModel;
-using ReactiveUI;
-using System.ComponentModel;
-using System.Runtime.CompilerServices;
+﻿using ReactiveUI;
 
 namespace testAvalonijaAbilitiesApp.ViewModels
 {
