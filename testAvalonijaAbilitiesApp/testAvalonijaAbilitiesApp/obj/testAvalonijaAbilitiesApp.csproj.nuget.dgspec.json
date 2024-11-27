@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\TaskManager-main\\TaskManager-main\\testAvalonijaAbilitiesApp\\testAvalonijaAbilitiesApp\\testAvalonijaAbilitiesApp.csproj": {}
+    "D:\\TaskManager\\testAvalonijaAbilitiesApp\\testAvalonijaAbilitiesApp\\testAvalonijaAbilitiesApp.csproj": {}
   },
   "projects": {
-    "D:\\TaskManager-main\\TaskManager-main\\testAvalonijaAbilitiesApp\\testAvalonijaAbilitiesApp\\testAvalonijaAbilitiesApp.csproj": {
+    "D:\\TaskManager\\testAvalonijaAbilitiesApp\\testAvalonijaAbilitiesApp\\testAvalonijaAbilitiesApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\TaskManager-main\\TaskManager-main\\testAvalonijaAbilitiesApp\\testAvalonijaAbilitiesApp\\testAvalonijaAbilitiesApp.csproj",
+        "projectUniqueName": "D:\\TaskManager\\testAvalonijaAbilitiesApp\\testAvalonijaAbilitiesApp\\testAvalonijaAbilitiesApp.csproj",
         "projectName": "testAvalonijaAbilitiesApp",
-        "projectPath": "D:\\TaskManager-main\\TaskManager-main\\testAvalonijaAbilitiesApp\\testAvalonijaAbilitiesApp\\testAvalonijaAbilitiesApp.csproj",
+        "projectPath": "D:\\TaskManager\\testAvalonijaAbilitiesApp\\testAvalonijaAbilitiesApp\\testAvalonijaAbilitiesApp.csproj",
         "packagesPath": "C:\\Users\\Миша\\.nuget\\packages\\",
-        "outputPath": "D:\\TaskManager-main\\TaskManager-main\\testAvalonijaAbilitiesApp\\testAvalonijaAbilitiesApp\\obj\\",
+        "outputPath": "D:\\TaskManager\\testAvalonijaAbilitiesApp\\testAvalonijaAbilitiesApp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Programs\\visual333\\NuGetPackages"
